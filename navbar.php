@@ -14,13 +14,14 @@
     <div class="flex items-center">
       <a href="index.php" class="logo flex items-center text-2xl font-bold">
         <img src="SRC/logoblanco.png" class="w-17 h-14 mr-3" alt="Edu4All logo">
-        SEIport
+        SEIPORT
       </a>
     </div>
     <div class="navigation">
       <div class="nav-items hidden md:flex space-x-4">
         <a href="index.php" class="flex items-center"><i class="uil uil-home mr-1"></i>Inicio</a>
-        <a href="about.php" class="flex items-center"><i class="uil uil-info-circle mr-1"></i>Productos</a>
+        <a href="productos.php" class="flex items-center"><i class="uil uil-info-circle mr-1"></i>Productos</a>
+        <a href="servicios.php" class="flex items-center"><i class="uil uil-info-circle mr-1"></i>Servicios</a>
         <a href="logins/login.php" class="flex items-center"><i class="uil uil-document-layout-left mr-1"></i>Inicio de Secion</a>
       </div>
     </div>

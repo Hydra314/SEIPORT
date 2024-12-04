@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Productos SEIport</title>
+    <title>Productos SEIPORT</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="SRC/logoblanco.png">
 </head>
@@ -17,40 +17,7 @@
     <main class="container mx-auto bg-white bg-opacity-80 rounded-lg p-6 mt-20 mb-10 shadow-md pt-5">
 
         <!-- Our Mission Section -->
-        <section class="mb-12 p-10">
-            <h2 class="text-3xl font-bold text-center mb-4 text-red-600">Mision de Empresa</h2>
-            <p class="text-lg text-center text-gray-700">
-            Nuestra misión es garantizar un entorno de trabajo seguro y libre de riesgos para las empresas e industrias, 
-            protegiendo la vida y el bienestar de sus colaboradores. A través de soluciones integrales de seguridad, prevención y control, 
-            nos enfocamos en reducir al mínimo los accidentes laborales, cumpliendo con los más altos estándares normativos y fomentando una cultura de prevención. 
-            Nuestro objetivo es crear espacios de trabajo donde la seguridad sea prioridad, promoviendo la productividad y el crecimiento sostenible de nuestros clientes.
-            </p>
-        </section>
 
-        <!-- What We Offer Section -->
-        <section class="mb-12">
-            <h2 class="text-3xl font-bold text-center mb-8 text-red-600">Servicios</h2>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-                <!-- Diverse Courses -->
-                <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-                    <div class="text-6xl mb-4 text-green-600">📚</div>
-                    <h3 class="text-xl font-bold mb-2 text-red-700">Recargas</h3>
-                    <p class="text-gray-600">Tipos de   Recargas</p>
-                </div>
-                <!-- Global Community -->
-                <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-                    <div class="text-6xl mb-4 text-green-600">👥</div>
-                    <h3 class="text-xl font-bold mb-2 text-red-700">Acerca de Nosotros</h3>
-                    <p class="text-gray-600">Acerca de Nosotros</p>
-                </div>
-                <!-- Accessible Learning -->
-                <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-                    <div class="text-6xl mb-4 text-green-600">🌐</div>
-                    <h3 class="text-xl font-bold mb-2 text-red-700">Pedidos</h3>
-                    <p class="text-gray-600">¿Tienes duda con tu pedido?</p>
-                </div>
-            </div>
-        </section>
     
 <!-- Meet Our Team Section -->
 <section class="mb-12">
