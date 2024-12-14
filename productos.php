@@ -25,7 +25,7 @@
     <div class="flex flex-wrap justify-center gap-8">
         <!-- Team Member 1 -->
         <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/EXTINTOR.png" alt="Extinores" class="w-32 h-32 mx-auto rounded-full mb-4">
+            <img src="SRC/1.jpg" alt="Extinores" class="w-32 h-32 mx-auto rounded-full mb-4">
             <h3 class="text-xl font-bold mb-2 text-red-700">Tipos de Extintores</h3>
             <p class="text-gray-600">Extintores</p>
         </div>
