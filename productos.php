@@ -25,14 +25,15 @@
     <div class="flex flex-wrap justify-center gap-8">
         <!-- Team Member 1 -->
         <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/1.jpg" alt="Extinores" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipos de Extintores</h3>
-            <p class="text-gray-600">Extintores</p>
-        </div>
+    <img src="SRC/1.jpg" alt="Calza Seguridad" class="w-32 h-32 mx-auto rounded-full m-0">
+    <h3 class="text-xl font-bold text-red-700"></h3>
+    <p class="text-gray-600"></p>
+</div>
+
         <!-- Team Member 2 -->
         <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/cascos.png" alt="Cascos" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipos de Cascos</h3>
+            <img src="SRC/2.jpg" alt="Cuña de Seguridad" class="w-32 h-32 mx-auto rounded-full mb-4">
+            <h3 class="text-xl font-bold mb-2 text-red-700">Cuña de Seguridad</h3>
             <p class="text-gray-600">Cascos</p>
         </div>
         <!-- Team Member 3 -->
@@ -48,6 +49,24 @@
             <p class="text-gray-600">Chalecos</p>
         </div>
         <!-- Team Member 5 -->
+        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
+            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
+            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
+            <p class="text-gray-600">Botas</p>
+        </div>
+
+        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
+            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
+            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
+            <p class="text-gray-600">Botas</p>
+        </div>
+
+        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
+            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
+            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
+            <p class="text-gray-600">Botas</p>
+        </div>
+
         <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
             <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
             <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>

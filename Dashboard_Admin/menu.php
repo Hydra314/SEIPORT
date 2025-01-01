@@ -5,10 +5,10 @@
     <div class="flex-shrink-0">
         <!-- Aumentamos el tamaño de la imagen y agregamos forma redonda -->
         <img class="w-18 h-16 rounded-full" 
-             src="../SRC/logoblanco.png" 
-             alt="Logo Edu4All">
+            src="../SRC/logoblanco.png" 
+            alt="Logo Edu4All">
     </div>
-    <b class="ml-0 text-4xl">SEIport</b>
+    <b class="ml-0 text-4xl">SEIPORT</b>
 </div>
 
 
