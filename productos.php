@@ -23,55 +23,39 @@
 <section class="mb-12">
     <h2 class="text-3xl font-bold text-center mb-8 text-red-700">Productos </h2>
     <div class="flex flex-wrap justify-center gap-8">
-        <!-- Team Member 1 -->
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-    <img src="SRC/1.jpg" alt="Calza Seguridad" class="w-32 h-32 mx-auto rounded-full m-0">
-    <h3 class="text-xl font-bold text-red-700"></h3>
-    <p class="text-gray-600"></p>
-</div>
+        <!-- Empiezan los Productos -->
+        <button class="p-0">
+    <img src="SRC/1.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
 
-        <!-- Team Member 2 -->
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/2.jpg" alt="Cuña de Seguridad" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Cuña de Seguridad</h3>
-            <p class="text-gray-600">Cascos</p>
-        </div>
-        <!-- Team Member 3 -->
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/guantes.png" alt="Guantes" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipos de Guantes</h3>
-            <p class="text-gray-600">Guantes</p>
-        </div>
-        <!-- Team Member 4 -->
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/chaleco.png" alt="chalecos" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipos de chalecos</h3>
-            <p class="text-gray-600">Chalecos</p>
-        </div>
-        <!-- Team Member 5 -->
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
-            <p class="text-gray-600">Botas</p>
-        </div>
-
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
-            <p class="text-gray-600">Botas</p>
-        </div>
-
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
-            <p class="text-gray-600">Botas</p>
-        </div>
-
-        <div class="text-center p-6 bg-white bg-opacity-80 rounded-lg shadow-md">
-            <img src="SRC/botas.png" alt="Botas" class="w-32 h-32 mx-auto rounded-full mb-4">
-            <h3 class="text-xl font-bold mb-2 text-red-700">Tipo de Botas</h3>
-            <p class="text-gray-600">Botas</p>
-        </div>
+        <!-- Producto 2 -->
+        <button class="p-0">
+    <img src="SRC/2.jpg" alt="Cuña Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+        <!-- Producto 3 -->
+        <button class="p-0">
+    <img src="SRC/3.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+        <!-- Producto 4 -->
+        <button class="p-0">
+    <img src="SRC/4.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+        <!-- Producto 5 -->
+        <button class="p-0">
+    <img src="SRC/5.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+        <!--Producto 6-->
+        <button class="p-0">
+    <img src="SRC/6.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+        <!--Producto 8-->
+        <button class="p-0">
+    <img src="SRC/7.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
+<!--Producto 9-->
+        <button class="p-0">
+    <img src="SRC/9.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
+        </button>
     </div>
 </section>
 </main>

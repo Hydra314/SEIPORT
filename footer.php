@@ -25,7 +25,7 @@
                 <span class="text-2xl font-bold ml-3">SEIPORT</span>
             </div> 
             <div>
-                <p class="text-lg">Seguridad Industrial Portuaria<span class="text-white"></span> &copy; 2024</p>
+                <p class="text-lg">Seguridad Industrial Portuaria<span class="text-white"></span> &copy; 2025</p>
             </div>
         </div>
     </footer>
