@@ -22,7 +22,7 @@
         <a href="index.php" class="flex items-center"><i class="uil uil-home mr-1"></i>Inicio</a>
         <a href="productos.php" class="flex items-center"><i class="uil uil-info-circle mr-1"></i>Productos</a>
         <a href="servicios.php" class="flex items-center"><i class="uil uil-info-circle mr-1"></i>Servicios</a>
-        <a href="logins/login.php" class="flex items-center"><i class="uil uil-document-layout-left mr-1"></i>Inicio de Secion</a>
+        <a href="carrito.php" class="flex items-center"><i class="uil uil-document-layout-left mr-1"></i>Carrito</a><i class="fa-solid fa-cart-shopping"></i>
       </div>
     </div>
     <button class="nav-menu-btn md:hidden" aria-label="Toggle menu">

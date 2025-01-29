@@ -29,9 +29,11 @@
         </button>
 
         <!-- Producto 2 -->
-        <button class="p-0">
+        <button class="p-0 flex flex-col items-center">
     <img src="SRC/2.jpg" alt="Cuña Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
-        </button>
+    <span class="mt-2 text-gray-700 font-medium">Cuña de Seguridad</span>
+</button>
+
         <!-- Producto 3 -->
         <button class="p-0">
     <img src="SRC/3.jpg" alt="Calza Seguridad" class="w-60 h-60 border border-gray-300 shadow-md hover:shadow-lg transition transform hover:scale-110 focus:ring-2 focus:ring-red-500">
